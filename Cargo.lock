@@ -126,7 +126,9 @@ checksum = "d3c64dab0f7e9471b7ace3b496da79024f44e2f4933ebe39d294d0984f309f3c"
 
 [[package]]
 name = "sashite-sanki-engine"
-version = "0.12.0"
+version = "0.12.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d365703ef1eaaa92735ae343083f0fe4254af0a5369b111ebe9d29d9678c0b1e"
 dependencies = [
  "sashite-epin",
  "sashite-feen",
